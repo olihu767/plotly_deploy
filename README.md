@@ -16,7 +16,15 @@ Roza has a partially completed dashboard, but she needs to finish it. She has a 
 
 ## Summary
 
-https://olihu767.github.io/plotly_deploy/
+![](image/image_1)
+
+The initial page is defulted the information for 'ID: 940' . By selecting different ID, the top ten bacterial species would be changed accordingly based on the selection. 
+
+![](image/image_2)
+
+Aside from the top ten chart, this bubble chart  displaying all bacterial species found in the tester's navel.
+
+The full page with the following link: https://olihu767.github.io/plotly_deploy/
 
 ## Usage
 Note: Please ensure you have all the required and updated softwares on your computer.
