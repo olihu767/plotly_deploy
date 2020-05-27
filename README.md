@@ -16,11 +16,11 @@ Roza has a partially completed dashboard, but she needs to finish it. She has a 
 
 ## Summary
 
-![](image/image_1) 
+![](image/image_1.PNG) 
 
 The initial page is defulted the information for 'ID: 940' . By selecting different ID, the top ten bacterial species would be changed accordingly based on the selection. 
 
-![](image/image_2)
+![](image/image_2.PNG)
 
 Aside from the top ten chart, this bubble chart  displaying all bacterial species found in the tester's navel.
 
