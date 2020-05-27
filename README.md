@@ -14,6 +14,10 @@ Roza has a partially completed dashboard, but she needs to finish it. She has a 
 * Software: Visual Studio Code 1.43.0, HTML, CSS, Bootstrap, JavaScript
 * Libraries: D3.js, Plotly.js
 
+## Summary
+
+https://olihu767.github.io/plotly_deploy/
+
 ## Usage
 Note: Please ensure you have all the required and updated softwares on your computer.
 1. Download the following files into the same folder for the project.
