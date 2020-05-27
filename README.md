@@ -8,3 +8,41 @@ Roza has a partially completed dashboard, but she needs to finish it. She has a 
 * Create a bubble chart to visualize the relative frequency of all the bacterial species found in a volunteer’s navel.
 * Complete the demographic information panel, if you have not done so.
 
+## Resources
+
+* Data Source: samples.json
+* Software: Visual Studio Code 1.43.0, HTML, CSS, Bootstrap, JavaScript
+* Libraries: D3.js, Plotly.js
+
+## Summary
+
+![](image/image_1)
+
+The initial page is defulted the information for 'ID: 940' . By selecting different ID, the top ten bacterial species would be changed accordingly based on the selection. 
+
+![](image/image_2)
+
+Aside from the top ten chart, this bubble chart  displaying all bacterial species found in the tester's navel.
+
+The full page with the following link: https://olihu767.github.io/plotly_deploy/
+
+## Usage
+Note: Please ensure you have all the required and updated softwares on your computer.
+1. Download the following files into the same folder for the project.
+
+plots.js
+index.html
+style.css
+samples.json
+
+2. Open Visual Studio Code from your project's folder.
+
+3. If you would like to run the webpage without deploying it, it will display a CORS error unless you run a local server. In your terminal or Git Bash, navigate to your folder and type the following:
+
+python -m http.server
+
+4. This will run the files and provide you with a URL. Copy and paste it into your browser.
+
+5. If you would like to change the favicon, you can create the icon from any favicon generator and add the files into your folder. The link I used is the following: https://favicon.io/favicon-generator/.
+
+
